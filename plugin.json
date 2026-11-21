@@ -1,0 +1,33 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "weavetab",
+  "displayName": "Weavetab",
+  "version": "2.6.4",
+  "description": "Local-first browser and Electron desktop automation via Weavetab MCP (@weavetab/mcp) and the full @weavetab/skills operational playbooks over direct CDP.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Detect my active browsers and Electron desktop apps with Weavetab",
+    "Map the active tab in lite mode and fill out the form safely without leaking credentials",
+    "List my open Discord windows with Weavetab and inspect the active channel"
+  ],
+  "author": {
+    "name": "Weavetab",
+    "email": "contact@weavetab.dev",
+    "url": "https://weavetab.dev"
+  },
+  "homepage": "https://weavetab.dev",
+  "repository": "https://github.com/Weavetab/antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "weavetab",
+    "weavetab-mcp",
+    "weavetab-skills",
+    "weavetab-sdk",
+    "mcp",
+    "browser-automation",
+    "desktop-automation",
+    "electron",
+    "cdp",
+    "ai-automation"
+  ]
+}
